@@ -1,0 +1,28 @@
+Thai Cave Rescue
+
+* “Although his technology is good and sophisticated it’s not practical for this mission,” Narongsak Osatanakorn, the head of the joint command centre coordinating the operation, told reporters.
+    * Osatanakorn has no diving or rescue experience upon which to make this claim independently
+    * There were no public statements about the practicality of the mini-sub from rescue members onsite actually involved in the diving
+    * No details were ever provided as to why the mini-sub was not practical
+    * A video was provided proving the efficacy of the mini-sub within the tight dimensions of the cave
+        *  https://www.youtube.com/watch?v=eKYKdx90nWc
+    * The children were ultimately rescued using traditional scuba equipment while sedated and attached to a stretcher, which was functionally and dimensionally nearly the same as the mini-sub but with the added risk of equipment failure on a sedated child with no training on using scuba gear
+* “It just had absolutely no chance of working,” Unsworth said in a widely shared interview. “He had no conception of what the cave passage was like. The submarine, I believe, was about 5ft 6in long, rigid, so it wouldn’t have gone round corners or round any obstacles.”
+    * Unsworth was not involved in the diving efforts to rescue the kids and had no first hand experience with the conditions of the cave at the time of the rescue
+    * Musk was onsite and had engineers from both Boring Co. and SpaceX. They had the same information available to him and his team as Unsworth when Unsworth made this statement.
+    * The mini-sub was only 12.2 inches in diameter and described as skinny enough to fit through the narrowest “choke hold” of the passage.
+    * Musk was specifically asked to make a backup option to the low-tech rescue approach
+    * There were no statements about the practicality of the mini-sub from rescue members onsite actually involved in the diving
+    * Musk also provided flexible, inflatable versions of the mini-sub
+
+
+Tesla
+Does Tesla have notable quality control issues beyond other car manufacturers? 
+* JD Power provided a detailed study looking at problems with new vehicles for their owners that “measures components that fail and features that are difficult to use, hard to understand or don’t work the way owners want.”
+    * https://www.jdpower.com/business/press-releases/2020-initial-quality-study-iqs
+* Although not officially ranked due to only collecting data from 35 out of 50 states, the unofficial ranking placed Tesla at the top of list (worst performing) of “Owner reported problems per 100 vehicle”. 
+* The scope of most “problem items” was mostly narrow and largely cosmetic or expectation based (e.g. not as much range as anticipated, range gauge not accurate).
+* The Model 3 and Model S vehicles both temporarily lost their Consumer Reports recommendation, but later regained it. 
+    * https://www.consumerreports.org/car-reliability-owner-satisfaction/tesla-model-3-model-s-regain-consumer-reports-recommendation-a4322070886/
+* In 2019, the Model 3 was the fifth most reliable out of 12 luxury compact cars in CR’s ratings of predicted new-car reliability
+* The Consumer Reports study only reflects self-reported issues from owners and isn’t an objective measure of how many issues are present across all cars. Despite the ranking possibly being influenced by higher than average expectations, there is still likely a correlation between objective problems and reported problems. 
